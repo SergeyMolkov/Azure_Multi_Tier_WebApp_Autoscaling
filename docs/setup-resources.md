@@ -9,8 +9,8 @@ These steps set up the basic Azure environment and GitHub repository for the pro
 
 ## Step 2: Create Resource Group
 - A resource group to hold all Azure resources.  
-- Command: `az group create --name "Sergey-MultiTier-App-RG" --location "EastUS"`
-(Replace "Sergey-MultiTier-App-RG" with the name of your resource group.)
+- Command: `az group create --name "My3TierAppRG" --location "EastUS"`
+(Replace "My3TierAppRG" with the name of your resource group.)
 
 ## Step 3: Create GitHub Repository
 - Go to [github.com](https://github.com) and create a new repository named "Multi-Tier-Web-App-Auto-Scaling".
